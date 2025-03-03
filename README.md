@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @AmayaMondal<br>- 👀 I’m interested in Singing , Drawing<br>- 🌱 I’m currently learning Python <br>- 📫 How to reach me amaya27mondal@gmail.com<br>- ⚡ I love to play Tenace 
+- 👋 Hi, I’m @AmayaMondal<br>- 👀 I’m interested in Singing , Drawing<br>- 🌱 I’m currently learning React.js <br>- 📫 How to reach me amaya27mondal@gmail.com<br>- ⚡ I love to play Badminton 
 
 
 ## 🌐 Socials:
